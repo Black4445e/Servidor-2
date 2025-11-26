@@ -1269,7 +1269,7 @@ async def MaiiiinE():
     )
     global loop, key, iv, region
     
-    Uid , Pw = '4307598022','BY_MERCY-WBBIHHNVK-HACKED'
+    Uid , Pw = '4309458151','BY_MERCY-EDGMAAPJF-HACKED'
 
     open_id , access_token = await GeNeRaTeAccEss(Uid , Pw)
     if not open_id or not access_token: 
